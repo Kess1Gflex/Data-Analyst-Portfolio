@@ -1,0 +1,189 @@
+season,episode_num,title,original_air_date,imdb_rating,total_votes
+1,1,Pilot,24/03/2005,7.4,7006
+1,2,Diversity Day,29/03/2005,8.3,6902
+1,3,Health Care,05/04/2005,7.7,5756
+1,4,The Alliance,12/04/2005,8,5579
+1,5,Basketball,19/04/2005,8.4,6183
+1,6,Hot Girl,26/04/2005,7.7,5495
+2,1,The Dundies,20/09/2005,8.7,6184
+2,2,Sexual Harassment,27/09/2005,8.2,5299
+2,3,Office Olympics,04/10/2005,8.3,5249
+2,4,The Fire,11/10/2005,8.3,5183
+2,5,Halloween,18/10/2005,8.1,4857
+2,6,The Fight,01/11/2005,8.1,4867
+2,7,The Client,08/11/2005,8.6,5125
+2,8,Performance Review,15/11/2005,8.1,4629
+2,9,E-Mail Surveillance,22/11/2005,8.4,4766
+2,10,Christmas Party,06/12/2005,8.9,5278
+2,11,Booze Cruise,05/01/2006,8.6,5086
+2,12,The Injury,12/01/2006,9.1,6120
+2,13,The Secret,19/01/2006,8.2,4518
+2,14,The Carpet,26/01/2006,7.8,4465
+2,15,Boys and Girls,02/02/2006,8.1,4431
+2,16,Valentine's Day,09/02/2006,8.3,4450
+2,17,Dwight's Speech,02/03/2006,8.4,4737
+2,18,Take Your Daughter to Work Day,16/03/2006,8.3,4590
+2,19,Michael's Birthday,30/03/2006,8.1,4432
+2,20,Drug Testing,27/04/2006,8.4,4522
+2,21,Conflict Resolution,04/05/2006,8.7,4627
+2,22,Casino Night,11/05/2006,9.4,6692
+3,1,Gay Witch Hunt,21/09/2006,9,5952
+3,2,The Convention,28/09/2006,8.2,4354
+3,3,The Coup,05/10/2006,8.5,4562
+3,4,Grief Counseling,12/10/2006,8,4366
+3,5,Initiation,19/10/2006,8.1,4248
+3,6,Diwali,02/11/2006,7.9,4443
+3,7,Branch Closing,09/11/2006,8.6,4371
+3,8,The Merger,16/11/2006,8.7,4558
+3,9,The Convict,30/11/2006,8.3,4564
+3,10,A Benihana Christmas,14/12/2006,8.8,4791
+3,11,Back from Vacation,04/01/2007,8.6,4333
+3,12,Traveling Salesmen,11/01/2007,8.6,4371
+3,13,The Return,18/01/2007,8.8,4592
+3,14,Ben Franklin,01/02/2007,8,4246
+3,15,Phyllis' Wedding,08/02/2007,8.2,4301
+3,16,Business School,15/02/2007,8.9,4994
+3,17,Cocktails,22/02/2007,8.5,4251
+3,18,The Negotiation,05/04/2007,9,4848
+3,19,Safety Training,12/04/2007,8.8,4516
+3,20,Product Recall,26/04/2007,8.7,4455
+3,21,Women's Appreciation,03/05/2007,8.8,4519
+3,22,Beach Games,10/05/2007,9.2,5211
+3,23,The Job,17/05/2007,9.3,5482
+4,1,Fun Run,27/09/2007,8.8,5065
+4,2,Dunder Mifflin Infinity,04/10/2007,8.3,4174
+4,3,Launch Party,11/10/2007,8.4,4064
+4,4,Money,18/10/2007,8.7,4377
+4,5,Local Ad,25/10/2007,8.8,4488
+4,6,Branch Wars,01/11/2007,8.5,4150
+4,7,Survivor Man,08/11/2007,8.2,3984
+4,8,The Deposition,15/11/2007,8.7,4235
+4,9,Dinner Party,10/04/2008,9.5,8203
+4,10,Chair Model,17/04/2008,8,3922
+4,11,Night Out,24/04/2008,8.6,4076
+4,12,Did I Stutter?,01/05/2008,8.3,3910
+4,13,Job Fair,08/05/2008,7.7,3744
+4,14,"Goodbye, Toby",15/05/2008,9.4,5577
+5,1,Weight Loss,25/09/2008,8.8,4597
+5,2,Business Ethics,09/10/2008,8.2,3770
+5,3,Baby Shower,16/10/2008,8,3759
+5,4,Crime Aid,23/10/2008,8.1,3617
+5,5,Employee Transfer,30/10/2008,8,3718
+5,6,Customer Survey,06/11/2008,8.5,3879
+5,7,Business Trip,13/11/2008,8.2,3619
+5,8,Frame Toby,20/11/2008,8.6,4038
+5,9,The Surplus,04/12/2008,8.8,4009
+5,10,Moroccan Christmas,11/12/2008,8.4,3751
+5,11,The Duel,15/01/2009,8.7,3913
+5,12,Prince Family Paper,22/01/2009,8,3766
+5,13,Stress Relief,01/02/2009,9.7,11895
+5,14,Lecture Circuit: Part 1,05/02/2009,8.2,3594
+5,15,Lecture Circuit: Part 2,12/02/2009,8.1,3552
+5,16,Blood Drive,05/03/2009,8,3557
+5,17,Golden Ticket,12/03/2009,8.7,3870
+5,18,New Boss,19/03/2009,8.3,3617
+5,19,Two Weeks,26/03/2009,8.4,3602
+5,20,Dream Team,09/04/2009,8.3,3592
+5,21,Michael Scott Paper Company,09/04/2009,8.7,3946
+5,22,Heavy Competition,16/04/2009,8.7,3708
+5,23,Broke,23/04/2009,9.3,4998
+5,24,Casual Friday,30/04/2009,8.3,3556
+5,25,Cafe Disco,07/05/2009,8.8,4172
+5,26,Company Picnic,14/05/2009,9,4255
+6,1,Gossip,17/09/2009,8.8,4184
+6,2,The Meeting,24/09/2009,8.1,3402
+6,3,The Promotion,01/10/2009,8,3390
+6,4,Niagara: Part 1,08/10/2009,9.4,6277
+6,5,Niagara: Part 2,08/10/2009,9.5,5122
+6,6,Mafia,15/10/2009,7.6,3582
+6,7,The Lover,22/10/2009,8.6,3766
+6,8,Koi Pond,29/10/2009,8.1,3410
+6,9,Double Date,05/11/2009,8.1,3369
+6,10,Murder,12/11/2009,8.7,4090
+6,11,Shareholder Meeting,19/11/2009,8.2,3403
+6,12,Scott's Tots,03/12/2009,8.3,3918
+6,13,Secret Santa,10/12/2009,8.5,3587
+6,14,The Banker,21/01/2010,6.8,4380
+6,15,Sabre,04/02/2010,7.6,3267
+6,16,Manager and Salesman,11/02/2010,8,3226
+6,17,The Delivery: Part 1,04/03/2010,8.4,3438
+6,18,The Delivery: Part 2,04/03/2010,8.5,3445
+6,19,St. Patrick's Day,11/03/2010,7.6,3180
+6,20,New Leads,18/03/2010,7.7,3158
+6,21,Happy Hour,25/03/2010,8.6,3613
+6,22,Secretary's Day,22/04/2010,7.8,3159
+6,23,Body Language,29/04/2010,7.9,3175
+6,24,The Cover-Up,06/05/2010,8.1,3168
+6,25,The Chump,13/05/2010,7.7,3064
+6,26,Whistleblower,20/05/2010,8,3161
+7,1,Nepotism,23/09/2010,8.3,3627
+7,2,Counseling,30/09/2010,8.2,3288
+7,3,Andy's Play,07/10/2010,8.2,3512
+7,4,Sex Ed,14/10/2010,7.8,3233
+7,5,The Sting,21/10/2010,7.7,3149
+7,6,Costume Contest,28/10/2010,8.2,3278
+7,7,Christening,04/11/2010,7.4,3267
+7,8,Viewing Party,11/11/2010,7.8,3216
+7,9,WUPHF.com,18/11/2010,7.7,3115
+7,10,China,02/12/2010,8.2,3299
+7,11,Classy Christmas,09/12/2010,9,4190
+7,12,Ultimatum,20/01/2011,8.3,3332
+7,13,The Seminar,27/01/2011,7.6,3167
+7,14,The Search,03/02/2011,8.5,3505
+7,15,PDA,10/02/2011,8.4,3413
+7,16,Threat Level Midnight,17/02/2011,9.4,7272
+7,17,Todd Packer,24/02/2011,7.4,3117
+7,18,Garage Sale,24/03/2011,9.4,5573
+7,19,Training Day,14/04/2011,7.7,3232
+7,20,Michael's Last Dundies,21/04/2011,9,4576
+7,21,"Goodbye, Michael",28/04/2011,9.8,12236
+7,22,The Inner Circle,05/05/2011,7.5,3214
+7,23,"Dwight K. Schrute, (Acting) Manager",12/05/2011,8.7,3528
+7,24,Search Committee,19/05/2011,8.7,3719
+8,1,The List,22/09/2011,8.1,3377
+8,2,The Incentive,29/09/2011,8.1,3202
+8,3,Lotto,06/10/2011,7.2,3050
+8,4,Garden Party,13/10/2011,8.1,3348
+8,5,Spooked,27/10/2011,7.5,2992
+8,6,Doomsday,03/11/2011,7.6,2882
+8,7,Pam's Replacement,10/11/2011,7.7,3079
+8,8,Gettysburg,17/11/2011,6.8,3102
+8,9,Mrs. California,01/12/2011,7.6,3020
+8,10,Christmas Wishes,08/12/2011,7.9,2950
+8,11,Trivia,12/01/2012,7.9,2916
+8,12,Pool Party,19/01/2012,8,3162
+8,13,Jury Duty,02/02/2012,7.4,2860
+8,14,Special Project,09/02/2012,7.6,2784
+8,15,Tallahassee,16/02/2012,7.8,2936
+8,16,After Hours,23/02/2012,8.1,3045
+8,17,Test the Store,01/03/2012,7.8,2899
+8,18,Last Day in Florida,08/03/2012,7.8,2829
+8,19,Get the Girl,15/03/2012,6.4,3320
+8,20,Welcome Party,12/04/2012,7,2919
+8,21,Angry Andy,19/04/2012,6.8,3170
+8,22,Fundraiser,26/04/2012,7,2809
+8,23,Turf War,03/05/2012,7.6,2724
+8,24,Free Family Portrait Studio,10/05/2012,7.7,2842
+9,1,New Guys,20/09/2012,7.5,3054
+9,2,Roy's Wedding,27/09/2012,7.1,2917
+9,3,Andy's Ancestry,04/10/2012,7.3,2873
+9,4,Work Bus,18/10/2012,7.8,3063
+9,5,Here Comes Treble,25/10/2012,6.9,2968
+9,6,The Boat,08/11/2012,7.7,2908
+9,7,The Whale,15/11/2012,7.6,2782
+9,8,The Target,29/11/2012,7.8,2911
+9,9,Dwight Christmas,06/12/2012,8.4,3280
+9,10,Lice,10/01/2013,7.6,2880
+9,11,Suit Warehouse,17/01/2013,7.8,2827
+9,12,Customer Loyalty,24/01/2013,7.9,2918
+9,13,Junior Salesman,31/01/2013,7.5,2765
+9,14,Vandalism,31/01/2013,7.4,2774
+9,15,Couples Discount,07/02/2013,7.2,2828
+9,16,Moving On,14/02/2013,8,3065
+9,17,The Farm,14/03/2013,7.5,3231
+9,18,Promos,04/04/2013,8,2857
+9,19,Stairmageddon,11/04/2013,8,2961
+9,20,Paper Airplane,25/04/2013,8,3040
+9,21,Livin' the Dream,02/05/2013,9.1,4448
+9,22,A.A.R.M.,09/05/2013,9.5,5930
+9,23,Finale,16/05/2013,9.8,15245
